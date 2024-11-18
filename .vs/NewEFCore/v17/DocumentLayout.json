@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kanan\\source\\repos\\NewEFCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F8663A-B8E4-4941-8EA3-FE39CEE87F89}|NewEFCore\\NewEFCore.csproj|c:\\users\\kanan\\source\\repos\\newefcore\\newefcore\\allmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F8663A-B8E4-4941-8EA3-FE39CEE87F89}|NewEFCore\\NewEFCore.csproj|solutionrelative:newefcore\\allmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F8663A-B8E4-4941-8EA3-FE39CEE87F89}|NewEFCore\\NewEFCore.csproj|c:\\users\\kanan\\source\\repos\\newefcore\\newefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F8663A-B8E4-4941-8EA3-FE39CEE87F89}|NewEFCore\\NewEFCore.csproj|solutionrelative:newefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\NewEFCore\\NewEFCore\\Program.cs",
+              "RelativeDocumentMoniker": "NewEFCore\\Program.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\NewEFCore\\NewEFCore\\Program.cs",
+              "RelativeToolTip": "NewEFCore\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwHoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:11:18.275Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllMethods.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\NewEFCore\\NewEFCore\\AllMethods.cs",
+              "RelativeDocumentMoniker": "NewEFCore\\AllMethods.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\NewEFCore\\NewEFCore\\AllMethods.cs",
+              "RelativeToolTip": "NewEFCore\\AllMethods.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAnwEoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:15:48.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
